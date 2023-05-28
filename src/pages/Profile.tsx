@@ -153,7 +153,7 @@ const Profile: FunctionComponent<ProfileProps> = () => {
 
   return (
     <>
-      <Title value="Profile | Moonlight" />
+      <Title value="Profile | FilmVip" />
 
       <ToastContainer />
 
@@ -164,7 +164,7 @@ const Profile: FunctionComponent<ProfileProps> = () => {
             className="h-10 w-10 rounded-full object-cover"
           />
           <p className="text-xl text-white font-medium tracking-wider uppercase">
-            Moon<span className="text-primary">light</span>
+            Film<span className="text-primary">Vip</span>
           </p>
         </Link>
         <button onClick={() => setIsSidebarActive((prev) => !prev)}>
