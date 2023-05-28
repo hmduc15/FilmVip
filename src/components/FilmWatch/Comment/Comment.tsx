@@ -71,7 +71,7 @@ const Comment: FunctionComponent<CommentProps> = ({ id, media_type }) => {
           setDoc(doc(db, `${media_type}-${id as number}`, "admin"), {
             user: {
               displayName: "_fuocy",
-              email: "huuphuoc@gmail.com",
+              email: "hmduc.m10@gmail.com",
               emailVerified: false,
               photoURL: "https://i.ibb.co/CJqGvY6/satthudatinh.jpg",
               uid: "CZGmXpePYsd1YryQR3C8xA5YOzb2",
