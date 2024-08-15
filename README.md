@@ -1,8 +1,2 @@
-Project Môn Công Cụ Phát Triển Phần Mềm nhóm 5.
-mduc
-nvdung24
-mxhai
-hieu
-pbtoan
-jhgdsas
-haidaisd
+Project FilmVip phục vụ các bài tập lớn
+Author: HMDUC
